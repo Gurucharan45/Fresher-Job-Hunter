@@ -1,0 +1,12 @@
+{
+  "location": "Hyderabad/Telangana",
+  "include_remote": true,
+  "remote_only": false,
+  "skills": [
+    "Python",
+    "Django",
+    "SQL"
+  ],
+  "status": "all",
+  "source": "all"
+}
